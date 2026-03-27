@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "tagsgalore",
+  "name": "Tag's Galore",
+  "authors": [
+    "DeadlyEssence01"
+  ],
+  "description": "A simple mod to add tags to various vanilla items, and to improve compatibility between mods.",
+  "version": "1.0.0"
+}

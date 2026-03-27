@@ -1,0 +1,20 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/-",
+    "value": {
+      "tags": [ "sealant" ]
+    },
+    "file": "game:itemtypes/resource/beeswax.json",
+    "side": "Server"
+  },
+    {
+    "op": "addmerge",
+    "path": "/-",
+    "value": {
+      "tags": [ "sealant" ]
+    },
+    "file": "game:itemtypes/resource/rendered-fat.json",
+    "side": "Server"
+  },
+]
