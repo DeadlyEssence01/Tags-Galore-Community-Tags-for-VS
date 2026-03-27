@@ -3,7 +3,7 @@ Available Tags are listed with an explanation for their usage, and vanilla items
 
 
 
-### Pottable Water
+### Potable Water
 Clean water which can be used for various tasks like cooking.
 - water
 
