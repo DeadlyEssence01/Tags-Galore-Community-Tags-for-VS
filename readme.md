@@ -1,16 +1,25 @@
-## Tags
+## Tags Added By This Mod
 Available Tags are listed with an explanation for their usage, and vanilla items as examples.
 
 
 
 ### Potable Water
-Clean water which can be used for various tasks like cooking.
+Clean water which can be used for various tasks like cooking, etc.
 - water
 
 ### Sealant
 Used for sealing crocks
 - beeswax
 - rendered fat
+---
+
+## Modded Tags
+Tags used by other mods (not added by the Tags Galore Mod).
+
+
+### Soap
+Used by soap / liquid soap in the Soap and Lye Continued mod (ver 2.1.0+).
+
 
 ---
 
