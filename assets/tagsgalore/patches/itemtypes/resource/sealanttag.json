@@ -1,7 +1,7 @@
 [
   {
     "op": "addmerge",
-    "path": "/-",
+    "path": "/",
     "value": {
       "tags": [ "sealant" ]
     },
@@ -10,11 +10,11 @@
   },
     {
     "op": "addmerge",
-    "path": "/-",
+    "path": "/",
     "value": {
       "tags": [ "sealant" ]
     },
-    "file": "game:itemtypes/resource/rendered-fat.json",
+    "file": "game:itemtypes/resource/fat-rendered.json",
     "side": "Server"
   },
 ]
